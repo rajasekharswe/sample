@@ -1,2 +1,2 @@
 # sample
-sample text file
+this is my text file
